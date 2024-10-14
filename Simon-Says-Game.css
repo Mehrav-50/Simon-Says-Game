@@ -1,3 +1,4 @@
+
 .div3{
     display: flex;
     justify-content: center;
@@ -52,6 +53,7 @@
 .div1{
     display:flex;
     justify-content: center;
+    flex-wrap: wrap;
    
 }
 .div2{
@@ -85,4 +87,11 @@
 }
 .flash{
     background-color: white;
+}
+.z{
+    text-align:center;
+}
+.y{
+    text-align:center;
+
 }
