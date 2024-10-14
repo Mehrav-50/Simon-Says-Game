@@ -1,0 +1,88 @@
+.div3{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#a{
+    height :100px;
+    width : 100px;
+    border : 8px solid black;
+    border-radius: 22px;
+    padding: 2rem ;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+}
+#b{
+    height :100px;
+    width : 100px;
+    border : 8px solid black;
+    border-radius: 22px;
+    padding: 2rem ;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+}
+#c{
+    height :100px;
+    width : 100px;
+    border : 8px solid black;
+    border-radius: 22px;
+    padding: 2rem ;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+}
+#d{
+    height :100px;
+    width : 100px;
+    border : 8px solid black;
+    border-radius: 22px;
+    padding: 2rem ;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: flex-start;
+}
+.div1{
+    display:flex;
+    justify-content: center;
+   
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.a{
+    background-color: rgba(255, 68, 246, 0.934);
+    cursor: pointer;
+}
+.b{
+    background-color: #3f9;
+    cursor: pointer;
+}
+.c{
+    background-color: #73f;
+    cursor: pointer;
+}
+.d{
+    background-color: #ff4;
+    cursor: pointer;
+}
+
+
+.div4{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.flash{
+    background-color: white;
+}
